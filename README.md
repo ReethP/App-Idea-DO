@@ -6,5 +6,5 @@ Members
  - Louise Talip
  - Brave Albayda
 
-Not yet implemented
+Not yet implemented \b
 UI Link: https://www.figma.com/file/UYqiDrT5dLddpdCYgre7eQgO/DO
